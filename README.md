@@ -5,8 +5,8 @@
 ![Rescuetime](./image/Res.png)
 
 #Paiza
-- ![oshitomanaberu](./image/oshi)
-- ![恋するハッカソン](./image/idol)
+- ![oshitomanaberu](./image/oshi.png)
+- ![恋するハッカソン](./image/idol.png)
 
 #Python3
 [Python3](https://github.com/n21012/lesson.git)
